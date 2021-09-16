@@ -6,3 +6,14 @@
   - Built a Random Forest model with the optimal number of trees to predict handwriting. 
   - Built a Neural Network model with the optimal number of neurons and perceptrons to predict handwriting. 
   - Compared all the models with benchmark metrics and recommended the right model to use.
+# Technology Stack : 
+  - Python
+  - Jupyter Notebook
+  - Pandas
+  - Numpy
+  - K-Nearest Neighbour
+  - Recursive Feature Elimination
+  - Random Forest
+  - Neural Network
+# Role :
+  - Data Analyst
